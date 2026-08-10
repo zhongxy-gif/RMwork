@@ -1,0 +1,16 @@
+# ROS2编译产物
+build/
+install/
+log/
+
+# python缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# VSCode本地配置（可选）
+.vscode/
+.marscode/
+
+# 临时目录
+tmp/
