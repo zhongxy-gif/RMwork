@@ -1,0 +1,17 @@
+# 1. 编译与编辑器产物
+build/
+.vscode/
+.clangd/
+
+# 2. 运行日志与 Python 缓存
+*.log
+__pycache__/
+.cache/
+
+# 3. 庞大的模型文件与媒体测试集
+*.onnx
+*.pt
+*.pth
+*.mp4
+*.avi
+dataset/
